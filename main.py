@@ -13,6 +13,8 @@
 
 # -*- coding: utf-8 -*-
 
+import sys
+sys.path.append('src')
 import pathlib
 import os
 import matplotlib.pyplot as plt
